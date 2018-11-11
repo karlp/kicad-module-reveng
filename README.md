@@ -8,3 +8,9 @@ not entirely _correct_ but are representitive, and placed appropriately.
 
 Sources:
 http://wiki.friendlyarm.com/wiki/index.php/NanoPi_Duo2#Dimensional_Diagram
+
+=== Preview ===
+Examples of how it looks right now....
+
+![Example-top-side](example-top.jpg?raw=true "Top side")
+![Example-bottom-side](example-bottom.jpg?raw=true "Bottom side")
