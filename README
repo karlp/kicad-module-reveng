@@ -1,0 +1,5 @@
+Contains kicad projects used to generate rough 3d models for various modules.
+
+The schematics are _very_ not clean, they're just enough to get all the right footprints so that kicad can autogenerate a nice 3d model for me.
+
+Each directory should have it's own readme
