@@ -12,3 +12,5 @@ http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Core
 ## Preview 
 Examples of how it looks right now....
 
+![Example-top-side](nanopi-neo-core-top.jpg?raw=true "Top side")
+![Example-bottom-side](nanopi-neo-core-bottom.jpg?raw=true "Bottom side")
