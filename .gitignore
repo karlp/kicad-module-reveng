@@ -3,5 +3,7 @@
 fp-info-cache
 *-cache.lib
 *.kicad_pcb-bak
+*.kicad_prl
 *.net
 \#*
+*-backups/
